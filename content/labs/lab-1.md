@@ -6,8 +6,8 @@
 * **Місце розташування:**
     * **Репозиторій власного веб-застосунку (GitHub):** https://github.com/nataaach/glowandcare
     * **Власний веб-застосунок (Жива сторінка):** https://nataaach.github.io/glowandcare/
-    * **Репозиторій звітного HTML-документа:** 
-    * **Звітний HTML-документ (Жива сторінка):** 
+    * **Репозиторій звітного HTML-документа:** https://github.com/nataaach/IS-32_appRECORD-CherviakovaNataliia-FIOT-2026
+    * **Звітний HTML-документ (Жива сторінка):** https://nataaach.github.io/IS-32_appRECORD-CherviakovaNataliia-FIOT-2026/
 
 ---
 
