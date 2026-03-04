@@ -480,11 +480,6 @@ body {
     .header-links { display: none; }
 }
 ```
-### Скріншоти головної сторінки
-(/assets/labs/lab-1/1.png)
-(/assets/labs/lab-1/2.png)
-(/assets/labs/lab-1/3.png)
-(/assets/labs/lab-1/4.png)
 ---
 ---
 ## ВИСНОВКИ
