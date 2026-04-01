@@ -165,8 +165,8 @@ runDemo();
     ![Product table](/assets/labs/lab-2/product-table-2.png)
 4. Order model
     ![Order model code](/assets/labs/lab-2/code6.png)
-    ![Order table](/assets/labs/lab-2/hotel-table-1.png)
-    ![Order table](/assets/labs/lab-2/hotel-table-2.png)
+    ![Order table](/assets/labs/lab-2/order-table-1.png)
+    ![Order table](/assets/labs/lab-2/order-table-2.png)
 ---
 
 ### Реалізація **Зв'язку One-to-Many** між `Category.js``Product.js`, `User.js``Order.js`та  **Зв'язку Many-to-Many** між `Product.js``Order.js` 
