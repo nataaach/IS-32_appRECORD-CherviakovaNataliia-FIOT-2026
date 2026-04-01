@@ -24,6 +24,23 @@
     "vite": "^6.0.0"
   },
   "dependencies": {
-    "gray-matter": "^4.0.3"
-  }
+    "cors": "^2.8.6",
+    "express": "^5.2.1",
+    "gray-matter": "^4.0.3",
+    "mysql2": "^3.20.0",
+    "sequelize": "^6.37.8"
+  },
+  "description": "Шаблон для оформлення лабораторних / практичних робіт у Markdown з автоматичним меню (Зміст) та навігацією по роботах.",
+  "main": "base-path.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nataaach/IS-32_appRECORD-CherviakovaNataliia-FIOT-2026.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nataaach/IS-32_appRECORD-CherviakovaNataliia-FIOT-2026/issues"
+  },
+  "homepage": "https://github.com/nataaach/IS-32_appRECORD-CherviakovaNataliia-FIOT-2026#readme"
 }
