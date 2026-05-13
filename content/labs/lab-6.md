@@ -262,16 +262,16 @@ app.use('/api-docs', swaggerUi.serve, swaggerUi.setup(swaggerSpec));
 ### Завдання 6. Тестування Swagger UI
 ### 6.1 Робота Swagger UI 
 За адресою `http://localhost:3000/api-docs` доступна інтерактивна документація. 
-     ![task6](/assets/labs/lab-5/6.png)
-     ![task6.1](/assets/labs/lab-5/6.1.png)
+     ![task6](/assets/labs/lab-6/6.png)
+     ![task6.1](/assets/labs/lab-6/6.1.png)
 ### 6.2 Тестування ендпоінтів
 Проведено успішне тестування через функцію **"Try it out"**.
- ![task6.2](/assets/labs/lab-5/6.2.png)
-![task6.2.1](/assets/labs/lab-5/6.2.1.png)
-![task6.2.2](/assets/labs/lab-5/6.2.2.png)
+ ![task6.2](/assets/labs/lab-6/6.2.png)
+![task6.2.1](/assets/labs/lab-6/6.2.1.png)
+![task6.2.2](/assets/labs/lab-6/6.2.2.png)
 ### 6.3 Оптимізація та Кешування
 Логи сервера підтверджують, що документація Swagger також користується системою кешування. 
 Повторні запити обробляються швидше, що доводить високу продуктивність підсумкового проєкту.
-![task6.3](/assets/labs/lab-5/6.3.png)
+![task6.3](/assets/labs/lab-6/6.3.png)
 ### Висновки
 У ході виконання лабораторної роботи №6 було успішно завершено розробку та налаштування серверної частини проєкту Glow & Care — сучасного REST API для магазину косметики.
